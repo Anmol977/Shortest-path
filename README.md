@@ -7,6 +7,7 @@ Dijkstra's Algorithm maintains a set S of vertices whose final shortest - path w
 
 
 
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/52422585/120042832-77703800-c028-11eb-8aec-2d6c2408f122.png"/>
 </p>
