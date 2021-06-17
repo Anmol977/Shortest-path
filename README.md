@@ -1,5 +1,5 @@
 # Shortestpath
-use W to set starting point, A to set ending point> Left click to create walls on the grid and initiate pathfinding using S key. 
+use W to set starting point, A to set ending point, Left click to create walls on the grid and initiate pathfinding using S key. 
 # SFML
 SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
 # Dijkstra's Algorithm
