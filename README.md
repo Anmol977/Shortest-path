@@ -1,5 +1,6 @@
 # Shortestpath
-use W to set starting point, A to set ending point, Left click to create walls on the grid and initiate pathfinding using S key. 
+A simple C++ application that takes initial and final destination, user can add their own obstacles and computes the shortest path between the two. The project uses SFML graphics library and Dijkstra's algorithm to compute the path.
+Use W to set starting point, A to set ending point, Left click to create walls on the grid and initiate pathfinding using S key. 
 # SFML
 SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
 # Dijkstra's Algorithm
